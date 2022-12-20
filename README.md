@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kedniko
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently working with Vue.js, Nuxt 3, Laravel, Typescript
 - 💞️ I’m looking to collaborate on cool Open Source Projects
 - 📫 How to reach me [@kedniko](https://twitter.com/kedniko)
 
